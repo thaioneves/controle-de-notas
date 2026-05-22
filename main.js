@@ -41,6 +41,7 @@ console.log("Recuperação: " + recuperacao);
 console.log("Reprovados: " + reprovados);
 console.log("Média da turma: " + media.toFixed(2));
 
+
 alert(
     "RESULTADO FINAL\n\n" +
     "Aprovados: " + aprovados + "\n" +
